@@ -1,0 +1,26 @@
+# application packages
+pyspark
+py4j
+
+# static analysis and linting
+pylint
+pylint-json2html
+
+# testing packages (UT and BDD)
+pytest
+pytest-bdd
+pytest-pspec
+pytest-xdist
+pytest-cov
+pytest-mock
+pytest-html
+pytest-reporter-html1
+pytest-reporter
+pytest-datadir
+pytest-env
+pytest-pylint
+
+# wrapper commands - packaging etc..
+invoke
+setuptools~=40.8.0
+
